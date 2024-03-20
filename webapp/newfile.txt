@@ -1,1 +1,1 @@
-"This is an updated text file." 
+"This is an updated text file in the smallest branch." 
